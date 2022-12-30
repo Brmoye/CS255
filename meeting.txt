@@ -1,0 +1,4 @@
+1. Dr. Jenkins
+2. 10/19/2021 11:40 a.m.
+3. We talked about pointers and the Money class
+4. Cohesion and coupling, making your code modular.

@@ -1,0 +1,11 @@
+Stack:
+	Data:
+		int data[]
+		max size
+		int top(index for top of stack)
+		
+		
+	Operations:
+		push - insert at top of stack
+		pop - pull off top of stack
+
